@@ -1,0 +1,17 @@
+{
+    "name": "jumprope",
+    "version": "0.0.0",
+    "description": "Practice for that arcade jumprope game",
+    "license": "MIT",
+    "dependencies": {
+        "circuit-playground": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
